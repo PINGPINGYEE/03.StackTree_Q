@@ -1,2 +1,1 @@
-# 03.StackTree_Q!
-[03 StackTree_Q_Result](https://github.com/PINGPINGYEE/03.StackTree_Q/assets/30267171/552f9d9b-8461-47a6-b048-563f1f5cb460)
+![03 StackTree_Q_Result](https://github.com/PINGPINGYEE/03.StackTree_Q/assets/30267171/a50ff8dc-7287-433f-b255-66d8ee657fa5)
